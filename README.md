@@ -43,8 +43,7 @@ When the user clicks on the 'Share Location' button, the saved location can be s
 <img src="images/sharedlocation.png" />
 
 When the user clicks on the "SET TIMER" button, they can choose the time to get the remainder to move the car.
-Then the timer will be on, and the button name will change to "TIMER IS ON." When the reminder is due, an alarm is triggered, and the "Player" component is used to play the sound file.
-and a notification will be shown in the app. If the user clicks the 'Stop Timer' button in the notification, the alarm will turn off and the button name will change to 'TIMER IS OFF'. The clock component checks when the time is due.
+Then the timer will be on,the button name will change to "TIMER IS ON." When the reminder is due, an alarm is triggered and a notification will be shown in the app. If the user clicks the 'Stop Timer' button in the notification, the alarm will turn off and the button name will change to 'TIMER IS OFF'.The "Player" component is used to play the alarm and the clock component checks when the time is due.
 
 <img src="images/Timeron.png" />
 <img src="images/clock.png" />
