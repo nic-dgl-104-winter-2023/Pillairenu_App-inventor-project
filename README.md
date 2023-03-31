@@ -30,16 +30,13 @@ The app also has additional features, such as sharing the location of the parked
 **The App's Behavior:**
 
 When the user clicks on 'Save Location' button, the location of the car will be saved.
-
 <img src="images/savelocation.png" />
 
 
 When the user clicks on the 'Direction to Car' button, the direction to the saved location will be shown in Google Map.
-
 <img src="images/directiontocar.png" />
 
 When the user clicks on the 'Share Location' button, the saved location can be shared with other apps.
-
 <img src="images/sharedlocation.png" />
 
 When the user clicks on the "SET TIMER" button, they can choose the time to get the remainder to move the car.
