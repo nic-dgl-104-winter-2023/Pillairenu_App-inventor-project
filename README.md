@@ -4,7 +4,16 @@ This is my MIT App inventor project repository.
 
 ## Project - LocateMyCar
 
-**The App's Apk File:**
+For my MIT App Inventor project, first I gave importance to making my project work, and I didn't follow any MVC pattern. But I made my app work with great effort. All the features worked properly. But whenever I added a new feature or made changes to an existing feature, it was difficult to do since there was no model, view, or controller separation, and it was hard for me to debug. So I tried to implement the MVC pattern, and I believe that I have managed to separate the model, view, and controller. This modularity and separation of concerns made it easier for me to add a new feature to my app and also helped me remove unnecessary code and simplify code logic. I added a new feature to show the location history.
+
+
+**The App's Latest File: After adding MVC**
+
+[LocateMyCar App's Aia](Files/LocateMyCar_FinalVersion.aia)
+
+
+
+**The App's Previous File: Without MVC Design Pattern**
 
 [LocateMyCar App's Apk](Files/LocateMyCar_Latest.apk)
 
