@@ -71,3 +71,9 @@ The Final User Interface:
 Implementation of MVC pattern:
 
 <img src="images/mvc.png"/>
+
+App's work flow:
+
+<video width="320" height="240" controls>
+  <source src="Appworkflow.mp4" type="video/mp4">
+</video>
