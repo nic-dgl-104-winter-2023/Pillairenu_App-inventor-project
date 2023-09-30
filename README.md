@@ -75,5 +75,5 @@ Implementation of MVC pattern:
 App's work flow:
 
 <video width="320" height="240" controls>
-  <source src="Appworkflow.mp4" type="video/mp4">
+  <source src="images/Appworkflow.mp4" type="video/mp4">
 </video>
