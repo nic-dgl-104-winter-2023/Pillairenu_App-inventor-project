@@ -63,5 +63,5 @@ Then the timer will be on,the button name will change to "TIMER IS ON." When the
 ## Enhancement
 
 For this  project, first I gave importance to making my project work, and I didn't follow any MVC pattern. But I made my app work with great effort. All the features worked properly. But whenever I added a new feature or made changes to an existing feature, it was difficult to do since there was no model, view, or controller separation, and it was hard for me to debug. So I tried to implement the MVC pattern, and I believe that I have managed to separate the model, view, and controller. This modularity and separation of concerns made it easier for me to add a new feature to my app and also helped me remove unnecessary code and simplify code logic. I added a new feature to show the location history.
-
+<img src="images/stage6.jpg">
 <img src="images/mvc.png"/>
